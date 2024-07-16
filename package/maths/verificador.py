@@ -1,5 +1,4 @@
-from package.maths.poligono import Poligono
-from package.maths.circulo import Circulo
+from package.maths.formas import Poligono, Circulo
 from math import sqrt
 
 class Verificador:
